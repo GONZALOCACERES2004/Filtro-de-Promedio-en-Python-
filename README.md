@@ -1,6 +1,5 @@
-# Filtro-de-Promedio-en-Python-
+# 🌈 Suavizado de Imágenes a Color con Filtro de Promedio en Python 🐍
 
-🌈 Suavizado de Imágenes a Color con Filtro de Promedio en Python 🐍
 Te presento un sencillo pero poderoso Filtro de Promedio implementado en Python, que te permitirá suavizar tus imágenes y reducir el ruido de manera eficiente.
 
 🚀 ¿Qué hace este código?
