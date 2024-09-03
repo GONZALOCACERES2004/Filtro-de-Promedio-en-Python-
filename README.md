@@ -26,12 +26,18 @@ apply_average_filter_color('imagen2.png', 'imagen_salida.png', 1)
 •	Versatilidad: Ideal para proyectos de procesamiento de imágenes, desde fotografía hasta análisis de datos visuales.
 •	Código Abierto: Modifica y mejora el código según tus requerimientos.
 
-🌟 
+🌟 Puedes ver el código completo para la compresión de imágenes utilizando SVD aquí:
+
+[Ver Código de Compresión de Imágenes con SVD](compresion.md)
+
+
 [Ver Código de Filtro de promedio](vecinos_matrix _ color.md)
 
 
 Descarga el código y comienza a experimentar con tus propias imágenes. ¡Comparte tus resultados y mejoras con la comunidad!
 
-📥 
-[Descargar Código de Filtro de promedio](vecinos_matrix _ color.md)
+📥 Puedes descargar el código completo para la compresión de imágenes utilizando SVD aquí:
+
+[Descargar Código de Compresión de Imágenes con SVD](compresion.py)
+[Descargar Código de Filtro de promedio](vecinos_matrix _ color.py)
 
