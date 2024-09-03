@@ -34,9 +34,11 @@ Este script utiliza la biblioteca PIL (Python Imaging Library) para cargar imág
 •	Código Abierto: Modifica y mejora el código según tus requerimientos.
 
 🌟 Puedes ver el código completo del filtro de promedio aquí:
+
 [Ver Código de Filtro de promedio](vecinos_matrix_color.md)
 
 📥 Puedes descargar el código completo del filtro de promedio aquí:
+
 [Descargar Código de Filtro de promedio](vecinos_matrix_color.py)
 
 
