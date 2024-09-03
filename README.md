@@ -26,10 +26,12 @@ apply_average_filter_color('imagen2.png', 'imagen_salida.png', 1)
 •	Versatilidad: Ideal para proyectos de procesamiento de imágenes, desde fotografía hasta análisis de datos visuales.
 •	Código Abierto: Modifica y mejora el código según tus requerimientos.
 
-🌟 [Ver Código de Filtro de promedio](vecinos_matrix _ color.md)
+🌟 
+[Ver Código de Filtro de promedio](vecinos_matrix _ color.md)
 
 
 Descarga el código y comienza a experimentar con tus propias imágenes. ¡Comparte tus resultados y mejoras con la comunidad!
 
-📥 [Descargar Código de Filtro de promedio](vecinos_matrix _ color.md)
+📥 
+[Descargar Código de Filtro de promedio](vecinos_matrix _ color.md)
 
