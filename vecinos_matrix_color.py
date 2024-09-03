@@ -69,5 +69,5 @@ def apply_average_filter_color(image_path, output_path,num_iterations=1):
     averaged_image.show(title="Imagen Promediada")
 
 # Ejemplo de uso
-apply_average_filter_color('Rosel2.png', 'Rosel_salida.png',30)
+apply_average_filter_color('Imagen.png', 'Imagen_salida.png',30)
 
